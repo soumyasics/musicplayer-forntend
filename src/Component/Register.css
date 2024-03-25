@@ -1,0 +1,56 @@
+.register-container{
+   
+    margin: 40px ;
+   font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.register-text{
+    text-align: center;
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img{
+    padding-top: 30px;
+    background-image: url('../Images/mic1.jpg');  
+    background-size: cover;
+   background-position:center;
+   padding-bottom: 150px;
+}
+
+
+.gender1{
+    padding-top: 20px;
+}
+.dob-class{
+   
+    padding-top: 20px;
+}
+
+
+.states-class
+{
+    padding-top: 20px;
+   
+}
+.pincode-class
+{
+    padding-top: 20px;
+    
+}
+.passwordclass
+{
+    padding-top: 20px;
+    
+}
+.countryclass
+{
+    padding-top: 20px;
+
+
+} 

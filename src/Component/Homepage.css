@@ -1,0 +1,40 @@
+.home-image img{
+   width: 220px;
+   height: 300px;
+   border-radius: 20%;
+   margin-top: 70px;
+}
+
+.home-image1 img{
+   width: 220px;
+   height: 300px;
+   border-radius: 20%;
+   margin-top: 230px;
+}
+.home-image2 img{
+   width: 220px;
+   height: 300px;
+   border-radius: 20%;
+   margin-top: 400px;
+}
+.content-arrangement{
+   padding-top: 50px;
+   padding-left: 20px;
+   text-align: justify;
+
+}
+.home-mainclass{
+   background-color: #f5edfc;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+.latest-music{
+   border-radius:50px;
+   padding-left: 550px;
+   padding-top: 138px;
+}
+.subscribe{
+  padding-top: 330px;
+  padding-left: 10px;
+  border-radius: 50px;
+}
